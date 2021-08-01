@@ -4,3 +4,6 @@ A computers operating system includes software that that it uses to manage the s
 The operating system provides security that protects the user by using password protection.
 It also monitors the systems health to ensure proper performance.
 The system also monitors for errors that could cause malfunctions to the computer system.
+Memory management is provided by the operating system.
+An operating system keeps track of what memory is used by each program.
+Each memory has it's own address assigned to it.
