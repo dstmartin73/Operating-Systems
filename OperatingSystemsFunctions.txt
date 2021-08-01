@@ -1,0 +1,3 @@
+The operating system is the interface that operates between the user and the computers hardware. 
+It also coordinates and manages the allocation of the computers hardware.
+A computers operating system includes software that that it uses to manage the systems resources.
