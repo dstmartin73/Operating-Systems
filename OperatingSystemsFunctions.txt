@@ -1,3 +1,6 @@
 The operating system is the interface that operates between the user and the computers hardware. 
 It also coordinates and manages the allocation of the computers hardware.
 A computers operating system includes software that that it uses to manage the systems resources.
+The operating system provides security that protects the user by using password protection.
+It also monitors the systems health to ensure proper performance.
+The system also monitors for errors that could cause malfunctions.
